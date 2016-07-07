@@ -1,5 +1,5 @@
 # MiniJava-Compiler
-A MiniJava Complier for Modern Compiler Implementation
+A MiniJava Complier for Modern Compiler Implementation with ANother Tool for Language Recognition(ANTLR)
 
 #Usage
 Execute the following command in bin/
